@@ -1,5 +1,7 @@
 # em-passport
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-passport.svg)](https://greenkeeper.io/)
+
 Authorization middleware for ee-webservice
 
 ## installation
